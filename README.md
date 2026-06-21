@@ -10,8 +10,6 @@ Collection of educational **Red Team** and offensive security tools written in P
 
 - **[Port Scanner](https://github.com/MahdiAmini12/Port-Scanner)** — Simple multi-port scanner with socket
 
-*(ابزارهای بعدی اینجا اضافه خواهند شد)*
-
 ---
 
 ## 🎯 Goals of this Repository
